@@ -1,6 +1,10 @@
 # MambaForever
 2020.03.11   
+
+_Anything in life worth doing is worth overdoing._  
+_Anything in life worth doing is worth overdoing._  
 _Anything in life worth doing is worth overdoing._
+
 <br>今天二轮面试被问到Http如何应用keepalive()？Process之间是如何交流的？僵尸进程以及孤儿进程？
 <br>完全不在我的知识范围之内,
 #### 于是决定开始系统的整理所有遇到的问题，希望这个可以帮助到我自己也可以帮助到看到这个的人。
