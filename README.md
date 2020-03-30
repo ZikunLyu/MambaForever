@@ -37,4 +37,4 @@ _Anything in life worth doing is worth overdoing._
 
 ## 5. [算法 Algorithm]()
 
-## 6. [JAVA]()
+## 6. [JAVA](https://github.com/ZikunLyu/MambaForever/blob/master/java.md)
