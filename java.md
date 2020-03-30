@@ -7,9 +7,9 @@
 
 ### Java Virtual Machine
 #### What is Java Virtual Machine?
-- JVM(Java Virtual Machine) acts as a run-time engine to run Java applications. 
+Java Virtual Machine (JVM) is a engine that provides runtime environment to drive the Java Code or applications. It converts Java bytecode into machines language. JVM is a part of Java Run Environment (JRE). In other programming languages, the compiler produces machine code for a particular system. However, Java compiler produces code for a Virtual Machine known as Java Virtual Machine.
+
 - JVM is the one that actually calls the main method present in a java code. 
-- JVM is a part of JRE(Java Runtime Environment).
 
 Java applications are called WORA (Write Once Run Anywhere). This means a programmer can develop Java code on one system and can expect it to run on any other Java enabled system without any adjustment. This is all possible because of JVM.
 
