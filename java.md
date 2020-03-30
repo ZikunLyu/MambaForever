@@ -1,5 +1,5 @@
 # JAVA
-* [Java Virtual Machine(JVM)](#Java Virtual Machine-JVM)
+* [Java Virtual Machine(JVM)](#Java Virtual Machine(JVM))
   
 
 
