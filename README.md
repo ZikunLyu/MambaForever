@@ -35,7 +35,7 @@ _Anything in life worth doing is worth overdoing._
 
 ## 4. [数据结构 Data Structure]()
 
-## 5. [算法 Algorithm](https://github.com/ZikunLyu/MambaForever/blob/master/Algorithm.md)
-- [Backtracking Algorithm](https://github.com/ZikunLyu/MambaForever/blob/master/Algorithm.md)
+## 5. [算法 Algorithm](https://github.com/ZikunLyu/MambaForever/blob/master/algorithm.md)
+- [Backtracking Algorithm](https://github.com/ZikunLyu/MambaForever/blob/master/algorithm.md)
 
 ## 6. [JAVA](https://github.com/ZikunLyu/MambaForever/blob/master/java.md)
