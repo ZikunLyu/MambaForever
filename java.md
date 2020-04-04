@@ -27,4 +27,15 @@ It contains classloader, memory area, execution engine etc.
 <img src="https://www.guru99.com/images/1/2.png" width="500" height="300"></img>
 </div>
 
+### Volatile
+#### Why use volatile?
+Using volatile is yet another way (like synchronized, atomic wrapper) of making class thread safe. Thread safe means that a method or class instance can be used by multiple threads at the same time without any problem.
+
+#### 特性
+1.可见性/visible。对一个volatile变量的读，总是能看到（任意线程）对这个volatile变量最后的写入。
+2.原子性/atomic。对任意单个volatile变量的读/写具有原子性，但类似于volatile++这种复合操作不具有原子性。
+
+<img src=""></img>
+
+
 
