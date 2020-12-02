@@ -11,7 +11,7 @@ _Anything in life worth doing is worth overdoing._
 
 #### 我的就业方向主要是前端开发和后端开发，以下是我罗列的技术栈的区别：   
 前端：Node 组件化开发(JS + CSS + HTML + 框架)   
-> Angular, React, Vue
+> Angular, React, Vue   
 后端：Java 后端开发 （Java + Spring + Sql + 中间件技术，分布式，微服务)   
 > [如何学习Java开发](java_dev.md)
 
