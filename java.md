@@ -39,12 +39,7 @@ When we compile a .java file, .class files(contains byte-code) with the same cla
 
 ### JVM Architecture
 It contains classloader, memory area, execution engine etc.
-
-<div align="center">
-<img src="https://www.guru99.com/images/1/2.png" width="500" height="300"></img>
-</div>
-
-![imgaes](JVM.png)
+![imgaes](images/JVM.png)
 #### 程序计数器(Program Counter Register)   
 程序计数器是一块较小的内存空间，它可以看作是当前线程所执行的字节码的信号指示器。在Java虚拟机的概念模型里，字节码解释器工作时就是通过改变这个计数器的值来选取下一条需要执行的字节码指令。   
 
