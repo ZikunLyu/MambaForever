@@ -42,7 +42,7 @@ Angular, React, Vue
 - [MySQL]()
 -
 
-## 4. [数据结构 Data Structure]()
+## 4. [数据结构 Data Structure](https://github.com/ZikunLyu/MambaForever/blob/master/data_Structure.md)
 
 ## 5. [算法 Algorithm](https://github.com/ZikunLyu/MambaForever/blob/master/algorithm.md)
 - [Backtracking Algorithm](https://github.com/ZikunLyu/MambaForever/blob/master/algorithm.md)
