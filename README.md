@@ -16,7 +16,7 @@ Angular, React, Vue
 后端：Java 后端开发 （Java + Spring + Sql + 中间件技术，分布式，微服务)   
 [如何学习Java开发](java_dev.md)
 
-[2021_09_ANT_JAVA_Interview] (https://github.com/ZikunLyu/MambaForever/blob/master/ANT_JAVA_Review.md)
+[2021_09_ANT_JAVA_Interview](https://github.com/ZikunLyu/MambaForever/blob/master/ANT_JAVA_Review.md)
 
 #### inspired by @https://github.com/wolverinn/Waking-Up and @KobeByrant
 #### markdown learned from @https://blog.csdn.net/qq_41544550/article/details/103351183
